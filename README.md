@@ -37,3 +37,12 @@ Let's connect and explore my projects on **GitHub**. Reach out at **jayam6297@gm
 <h2 align="left">🤝Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/jayam-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<hr/>
+
+<!-- Resume embed: fills the viewport -->
+<div style="position:fixed;inset:0;margin:0;padding:0;overflow:hidden;z-index:9999;">
+  <iframe src="Asset/Jayam%20Verma%20-%20Senior%20Frontend%20Engineer%20-%20Resume.pdf" style="width:100%;height:100%;border:0;" title="Resume"></iframe>
+</div>
+
+If the preview doesn't render the PDF, open it directly: [Open PDF](Asset/Jayam%20Verma%20-%20Senior%20Frontend%20Engineer%20-%20Resume.pdf)
